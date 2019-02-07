@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58957172-a29a-40e8-88ab-7285c7d13c78" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/clean.sh" beforeDir="false" afterPath="$PROJECT_DIR$/clean.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/installation/pages/create-the-clvm-volume.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/installation/pages/create-the-clvm-volume.adoc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/installation/pages/enable-the-cluster.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/installation/pages/enable-the-cluster.adoc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uyuni-publisher-local.yml" beforeDir="false" afterPath="$PROJECT_DIR$/uyuni-publisher-local.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workspace/doc-susemanager/docs/antora.yml" beforeDir="false" afterPath="$PROJECT_DIR$/workspace/doc-susemanager/docs/antora.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,23 +19,11 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/installation/nav-installation-guide.adoc">
+        <entry file="file://$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/client-configuration/nav-client-config-guide.adoc">
           <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="316">
-                <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/installation/pages/configure-certificates.adoc">
-          <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="46">
-                <caret line="2" column="12" selection-end-line="2" selection-end-column="12" />
+              <first_editor relative-caret-position="414">
+                <caret line="18" selection-start-line="18" selection-end-line="18" />
               </first_editor>
               <second_editor />
             </state>
@@ -42,13 +31,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/installation/pages/install-application-on-node1.adoc">
-          <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="46">
-                <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/workspace/doc-susemanager/docs/antora.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/uyuni-publisher-local.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -61,9 +56,28 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/installation/nav-installation-guide.adoc" />
         <option value="$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/installation/pages/enable-the-cluster.adoc" />
         <option value="$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/installation/pages/create-the-clvm-volume.adoc" />
+        <option value="$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/installation/nav-installation-guide.adoc" />
+        <option value="$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/client-configuration/pages/client-configuration-overview.adoc" />
+        <option value="$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/client-configuration/pages/client-configuration-scc.adoc" />
+        <option value="$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/client-configuration/pages/client-configuration-activation-keys.adoc" />
+        <option value="$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/client-configuration/pages/client-configuration-traditional-vs-salt.adoc" />
+        <option value="$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/client-configuration/pages/client-cfg-activation-keys.adoc" />
+        <option value="$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/client-configuration/pages/client-cfg-overview.adoc" />
+        <option value="$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/client-configuration/pages/client-cfg-scc.adoc" />
+        <option value="$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/client-configuration/pages/client-cfg-traditional-vs-salt.adoc" />
+        <option value="$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/client-configuration/pages/client-cfg-bootstrapping.adoc" />
+        <option value="$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/client-configuration/pages/_partials/client-cfg-reg-manually.adoc" />
+        <option value="$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/client-configuration/pages/client-cfg-reg-manually-traditional.adoc" />
+        <option value="$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/client-configuration/pages/client-cfg-reg-manually-salt.adoc" />
+        <option value="$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/client-configuration/pages/client-cfg-reg-with-bootstrap.adoc" />
+        <option value="$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/client-configuration/pages/client-cfg-reg-with-bootstrap-kickstart.adoc" />
+        <option value="$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/client-configuration/pages/client-cfg-reg-with-bootstrap-disconnected.adoc" />
+        <option value="$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/client-configuration/pages/client-cfg-mgmt-subscriptions-overview.adoc" />
+        <option value="$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/client-configuration/nav-client-config-guide.adoc" />
+        <option value="$PROJECT_DIR$/workspace/doc-susemanager/docs/antora.yml" />
+        <option value="$PROJECT_DIR$/uyuni-publisher-local.yml" />
       </list>
     </option>
   </component>
@@ -105,44 +119,6 @@
               <item name="doc-susemanager" type="462c0819:PsiDirectoryNode" />
               <item name="docs" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="doc-susemanager-publisher" type="b2602c69:ProjectViewProjectNode" />
-              <item name="doc-susemanager-publisher" type="462c0819:PsiDirectoryNode" />
-              <item name="workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="doc-susemanager" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="modules" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="doc-susemanager-publisher" type="b2602c69:ProjectViewProjectNode" />
-              <item name="doc-susemanager-publisher" type="462c0819:PsiDirectoryNode" />
-              <item name="workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="doc-susemanager" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="modules" type="462c0819:PsiDirectoryNode" />
-              <item name="installation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="doc-susemanager-publisher" type="b2602c69:ProjectViewProjectNode" />
-              <item name="doc-susemanager-publisher" type="462c0819:PsiDirectoryNode" />
-              <item name="workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="doc-susemanager" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="modules" type="462c0819:PsiDirectoryNode" />
-              <item name="installation" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="doc-susemanager-publisher" type="b2602c69:ProjectViewProjectNode" />
-              <item name="doc-susemanager-publisher" type="462c0819:PsiDirectoryNode" />
-              <item name="workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="doc-susemanager" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="modules" type="462c0819:PsiDirectoryNode" />
-              <item name="installation" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="_partials" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -151,7 +127,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/client-configuration/pages" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -177,17 +159,18 @@
       <updated>1548317698066</updated>
       <workItem from="1548317701299" duration="71000" />
       <workItem from="1548317786980" duration="4120000" />
+      <workItem from="1549011610592" duration="6072000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4191000" />
+    <option name="totallyTimeSpent" value="10263000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="27" width="1920" height="1173" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21624473" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20411393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -236,14 +219,6 @@
           <first_editor relative-caret-position="69">
             <caret line="3" lean-forward="true" selection-end-line="30" selection-end-column="450" />
           </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/installation/pages/hardware-requirements.adoc">
-      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor />
           <second_editor />
         </state>
       </provider>
@@ -328,16 +303,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/installation/nav-installation-guide.adoc">
+    <entry file="file://$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/installation/pages/install-application-on-node1.adoc">
       <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="316">
-            <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+          <first_editor relative-caret-position="46">
+            <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
-      <provider editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/installation/pages/configure-certificates.adoc">
       <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
@@ -349,13 +323,198 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/installation/pages/install-application-on-node1.adoc">
+    <entry file="file://$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/installation/pages/hardware-requirements.adoc">
       <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="46">
-            <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/installation/pages/intro.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/installation/pages/overview.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/installation/pages/storage-requirements.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/installation/nav-installation-guide.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="92">
+            <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/architecture/pages/arch-the-legacy-stack.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/client-configuration/pages/client-cfg-traditional-vs-salt.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="161">
+            <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/client-configuration/pages/client-cfg-scc.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="92">
+            <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/client-configuration/pages/client-cfg-overview.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="115">
+            <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/client-configuration/pages/client-cfg-bootstrapping.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="92">
+            <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/client-configuration/pages/client-cfg-reg-manually.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="26" selection-start-column="26" selection-end-column="26" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/client-configuration/pages/client-cfg-reg-manually-salt.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="30" selection-start-column="30" selection-end-column="30" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/client-configuration/pages/client-cfg-reg-manually-traditional.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="37" selection-start-column="37" selection-end-column="37" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/client-configuration/pages/client-cfg-reg-with-bootstrap.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="31" selection-start-column="31" selection-end-column="31" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/client-configuration/pages/client-cfg-reg-with-bootstrap-kickstart.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="41" selection-start-column="41" selection-end-column="41" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/client-configuration/pages/client-cfg-reg-with-bootstrap-disconnected.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="44" selection-start-column="44" selection-end-column="44" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/client-configuration/pages/client-cfg-activation-keys.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret selection-end-line="7" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/client-configuration/pages/client-cfg-mgmt-subscriptions-overview.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="40" selection-start-column="40" selection-end-column="40" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/client-configuration/nav-client-config-guide.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="414">
+            <caret line="18" selection-start-line="18" selection-end-line="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uyuni-publisher-local.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workspace/doc-susemanager/docs/antora.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
         </state>
       </provider>
     </entry>

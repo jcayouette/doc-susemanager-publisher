@@ -5,7 +5,7 @@ site:
 content:
   sources:
   - url: ./workspace/doc-susemanager
-    branches: [ia-rework]
+    branches: [ia-rework, jcayouette-ia-rework]
     start_path: docs
 ui:
   bundle:
