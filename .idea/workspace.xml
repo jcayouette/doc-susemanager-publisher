@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58957172-a29a-40e8-88ab-7285c7d13c78" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/uyuni-publisher.yml" beforeDir="false" afterPath="$PROJECT_DIR$/uyuni-publisher.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/ROOT/nav.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/ROOT/nav.adoc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/ROOT/pages/patch-notes-version-4.0.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/ROOT/pages/patch-notes-version-4.0.adoc" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -30,11 +27,23 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/ROOT/pages/index.adoc">
+          <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="69">
+                <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/uyuni-publisher.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="253">
-              <caret line="11" column="81" selection-start-line="11" selection-start-column="81" selection-end-line="11" selection-end-column="81" />
+              <caret line="11" column="80" selection-start-line="11" selection-start-column="80" selection-end-line="11" selection-end-column="80" />
             </state>
           </provider>
         </entry>
@@ -113,12 +122,12 @@
         <option value="$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/architecture/pages/arch-component-spacewalk-repo-sync.adoc" />
         <option value="$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/architecture/pages/arch-component-tomcat.adoc" />
         <option value="$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/architecture/pages/arch-component-taskomatic.adoc" />
-        <option value="$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/ROOT/pages/index.adoc" />
         <option value="$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/ROOT/pages/_partials/entities.adoc" />
         <option value="$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/ROOT/pages/patch-notes.adoc" />
         <option value="$PROJECT_DIR$/workspace/doc-susemanager/docs/antora.yml" />
         <option value="$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/ROOT/pages/patch-notes-version-4.0.adoc" />
         <option value="$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/ROOT/nav.adoc" />
+        <option value="$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/ROOT/pages/index.adoc" />
         <option value="$PROJECT_DIR$/uyuni-publisher.yml" />
       </list>
     </option>
@@ -140,6 +149,51 @@
             <path>
               <item name="doc-susemanager-publisher" type="b2602c69:ProjectViewProjectNode" />
               <item name="doc-susemanager-publisher" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="doc-susemanager-publisher" type="b2602c69:ProjectViewProjectNode" />
+              <item name="doc-susemanager-publisher" type="462c0819:PsiDirectoryNode" />
+              <item name="workspace" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="doc-susemanager-publisher" type="b2602c69:ProjectViewProjectNode" />
+              <item name="doc-susemanager-publisher" type="462c0819:PsiDirectoryNode" />
+              <item name="workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="doc-susemanager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="doc-susemanager-publisher" type="b2602c69:ProjectViewProjectNode" />
+              <item name="doc-susemanager-publisher" type="462c0819:PsiDirectoryNode" />
+              <item name="workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="doc-susemanager" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="doc-susemanager-publisher" type="b2602c69:ProjectViewProjectNode" />
+              <item name="doc-susemanager-publisher" type="462c0819:PsiDirectoryNode" />
+              <item name="workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="doc-susemanager" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="doc-susemanager-publisher" type="b2602c69:ProjectViewProjectNode" />
+              <item name="doc-susemanager-publisher" type="462c0819:PsiDirectoryNode" />
+              <item name="workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="doc-susemanager" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="ROOT" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="doc-susemanager-publisher" type="b2602c69:ProjectViewProjectNode" />
+              <item name="doc-susemanager-publisher" type="462c0819:PsiDirectoryNode" />
+              <item name="workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="doc-susemanager" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="ROOT" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -198,12 +252,12 @@
       <workItem from="1550246107851" duration="2088000" />
       <workItem from="1550248206966" duration="53380000" />
       <workItem from="1550769940305" duration="5825000" />
-      <workItem from="1550777181564" duration="8152000" />
+      <workItem from="1550777181564" duration="9661000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="124312000" />
+    <option name="totallyTimeSpent" value="125821000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="27" width="1920" height="1173" extended-state="6" />
@@ -648,16 +702,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/ROOT/pages/index.adoc">
-      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="736">
-            <caret line="27" selection-start-line="27" selection-end-line="27" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/ROOT/pages/patch-notes.adoc">
       <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
         <state split_layout="SPLIT">
@@ -705,10 +749,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/ROOT/pages/index.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="69">
+            <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/uyuni-publisher.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
-          <caret line="11" column="81" selection-start-line="11" selection-start-column="81" selection-end-line="11" selection-end-column="81" />
+          <caret line="11" column="80" selection-start-line="11" selection-start-column="80" selection-end-line="11" selection-end-column="80" />
         </state>
       </provider>
     </entry>
