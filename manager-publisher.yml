@@ -1,11 +1,11 @@
 # Doc site [title, and start page]
 site:
   title: SUSE Manager Documentation
-  start_page: SUSE Manager::index
+  start_page: ROOT:index.adoc
 content:
   sources:
   - url: https://github.com/SUSE/doc-susemanager/
-    branches: [ia-rework-no-daps]
+    branches: ia-rework-no-daps
     start_path: docs
 ui:
   bundle:
