@@ -1,11 +1,11 @@
 # Doc site [title, and start page]
 site:
-  title: Uyuni Documentation
-  start_page: uyuni::index
+  title: SUSE Manager Documentation
+  start_page: SUSE Manager::index
 content:
   sources:
   - url: https://github.com/SUSE/doc-susemanager/
-    branches: [ia-rework-builder]
+    branches: [ia-rework-no-daps]
     start_path: docs
 ui:
   bundle:
