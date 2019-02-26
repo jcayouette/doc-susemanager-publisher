@@ -25,8 +25,17 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/uyuni-publisher.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="57" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/uyuni-publisher-local.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="242">
               <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
@@ -111,10 +120,10 @@
         <option value="$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/reference/pages/home/home-menu.adoc" />
         <option value="$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/reference/nav-reference-manual.adoc" />
         <option value="$PROJECT_DIR$/workspace/doc-susemanager/docs/antora.yml" />
-        <option value="$PROJECT_DIR$/uyuni-publisher.yml" />
         <option value="$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/ROOT/pages/_partials/entities.adoc" />
         <option value="$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/ROOT/pages/index.adoc" />
         <option value="$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/installation/pages/install-server.adoc" />
+        <option value="$PROJECT_DIR$/uyuni-publisher.yml" />
       </list>
     </option>
   </component>
@@ -251,12 +260,12 @@
       <workItem from="1550769940305" duration="5825000" />
       <workItem from="1550777181564" duration="14597000" />
       <workItem from="1551106195691" duration="6939000" />
-      <workItem from="1551192693295" duration="4011000" />
+      <workItem from="1551192693295" duration="4310000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="141707000" />
+    <option name="totallyTimeSpent" value="142006000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="30" width="3840" height="2130" extended-state="6" />
@@ -305,16 +314,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/client-configuration/pages/client-cfg-overview.adoc">
-      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret selection-end-line="2" selection-end-column="37" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/reference/pages/intro.adoc">
       <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
         <state split_layout="SPLIT">
@@ -534,13 +533,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/ROOT/pages/patch-notes.adoc" />
-    <entry file="file://$PROJECT_DIR$/uyuni-publisher-local.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/ROOT/nav.adoc">
       <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
         <state split_layout="SPLIT">
@@ -704,13 +696,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/workspace/doc-susemanager/docs/antora.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/workspace/doc-susemanager/docs/modules/ROOT/pages/_partials/entities.adoc">
       <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
         <state split_layout="SPLIT">
@@ -731,7 +716,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/workspace/doc-susemanager/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workspace/doc-susemanager/docs/antora.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/uyuni-publisher.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="57" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uyuni-publisher-local.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
