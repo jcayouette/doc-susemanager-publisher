@@ -5,7 +5,7 @@ site:
 content:
   sources:
   - url: ./workspace/doc-susemanager
-    branches: ia-rework-no-daps
+    branches: beta1
     start_path: docs
 ui:
   bundle:
